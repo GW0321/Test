@@ -1,0 +1,5 @@
+﻿  vending machine.c
+C:\Users\cup03\OneDrive\바탕 화면\Coding\C실습\240414\240414\vending machine.c(43,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\cup03\OneDrive\바탕 화면\Coding\C실습\240414\240414\vending machine.c(60,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\cup03\OneDrive\바탕 화면\Coding\C실습\240414\240414\vending machine.c(93,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  240414.vcxproj -> C:\Users\cup03\OneDrive\바탕 화면\Coding\C실습\240414\x64\Debug\240414.exe
